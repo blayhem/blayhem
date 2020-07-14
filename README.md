@@ -1,4 +1,4 @@
-# Hi, I'm Daniel :wave:
+![](name.png)
 
 - :computer: I'm a frontend engineer based in Madrid, Spain.
 - :seedling: Currently working at [Vizzuality](https://github.com/vizzuality/) developing tools for a better future.
