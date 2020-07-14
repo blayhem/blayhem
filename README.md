@@ -1,4 +1,4 @@
-![](logo_gradient.png)
+![Hi, I'm Daniel Fernández!](logo_gradient.png)
 
 - :computer: I'm a frontend engineer based in Madrid, Spain.
 - :seedling: Currently working at [Vizzuality](https://github.com/vizzuality/) developing tools for a better future.
